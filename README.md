@@ -2,7 +2,7 @@
 
 Im scriptfree on github and I make roblox scripts or fun bookmarklets for school.
 
-# My Bookmarklet
+# My Bookmarklets
 
 - *Game Unblocker*
 ```
