@@ -1,7 +1,5 @@
 javascript:(function() {
-    
-    // List of supported games
-    
+    // List of supported game names
     var supportedGames = [
         "cookie clicker",
         "crossy road",
@@ -27,7 +25,7 @@ javascript:(function() {
         // Check if the entered game name is supported
         if (supportedGames.includes(lowerCaseGameName)) {
             var iframe = document.createElement('iframe');
-            iframe.src = "https://raw.githubusercontent.com/uvgame/uvgame.github.io/main/" + formattedName;
+            iframe.src = "https://uvgame.github.io/" + formattedName;
             iframe.style.position = "fixed";
             iframe.style.top = "0";
             iframe.style.left = "0";
