@@ -1,6 +1,6 @@
 # About Me!
 
-<img src="https://raw.githubusercontent.com/scriptfree/About-me/main/th%20(11).jpg" alt="Image Missing" style="width: 200px; height: 200px; border-radius: 50px;">
+<img src="https://raw.githubusercontent.com/scriptfree/About-me/main/th%20(11).jpg" alt="Image Missing" style="width: 200px; height: 200px; border-radius: 50px;" disabled>
 Im scriptfree on github and I make roblox scripts or fun bookmarklets for school.
 
 
