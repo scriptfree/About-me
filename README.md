@@ -7,13 +7,13 @@ Im scriptfree on github and I make roblox scripts or fun bookmarklets for school
 <style>
         .image-text-container {
             display: flex;
-            align-items: center; /* Vertical alignment */
-            justify-content: flex-start; /* Horizontal alignment */
+            align-items: center; 
+            justify-content: flex-start; 
         }
         .image-text-container img {
-            max-width: 50%; /* Adjust the image size as needed */
-            height: auto; /* Maintain aspect ratio */
-            margin-right: 20px; /* Space between image and text */
+            max-width: 50%; 
+            height: auto; 
+            margin-right: 20px; 
         }
     </style>
 
