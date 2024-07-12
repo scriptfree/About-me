@@ -1,5 +1,7 @@
 javascript:(function() {
-    // List of supported game names
+    
+    // List of supported games
+    
     var supportedGames = [
         "cookie clicker",
         "crossy road",
