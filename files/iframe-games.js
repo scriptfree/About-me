@@ -3,7 +3,7 @@ javascript:(function() {
     if (gameName !== null) {
         var linkfix = gameName.replace(/ /g, '-') + '.html';
         var iframe = document.createElement('iframe');
-        iframe.src = "https://raw.githubusercontent.com/uvgame/uvgame.github.io/main/" + linkfix;
+        iframe.src = "https://uvgame.github.io/" + linkfix;
         iframe.style.position = "fixed";
         iframe.style.top = "0";
         iframe.style.left = "0";
