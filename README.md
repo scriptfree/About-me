@@ -4,26 +4,6 @@
 Im scriptfree on github and I make roblox scripts or fun bookmarklets for school.
 
 
-<style>
-        .image-text-container {
-            display: flex;
-            align-items: center; 
-            justify-content: flex-start; 
-        }
-        .image-text-container img {
-            max-width: 50%; 
-            height: auto; 
-            margin-right: 20px; 
-        }
-    </style>
-
-<div class="image-text-container">
-    <img src="https://raw.githubusercontent.com/scriptfree/About-me/main/th%20(11).jpg" alt="Image Missing" style="width: 200px; height: 200px; border-radius: 50px;">
-    <p>Im scriptfree on github and I make roblox scripts or fun bookmarklets for school.</p>
-</div>
-
-
-
 
 # My Bookmarklet
 ```
