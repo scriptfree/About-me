@@ -21,7 +21,7 @@ javascript:(function() {
     var gameName = prompt("Type game name (Press esc to cancel).");
 
     if (gameName !== null) {
-        var lowerCaseGameName = gameName.toLowerCase(); // Convert to lowercase
+        var lowerCaseGameName = gameName.toLowerCase();
         var formattedName = lowerCaseGameName.replace(/ /g, '-') + '.html';
 
         // Check if the entered game name is supported
