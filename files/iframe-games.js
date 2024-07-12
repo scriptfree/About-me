@@ -22,7 +22,6 @@ javascript:(function() {
         var lowerCaseGameName = gameName.toLowerCase();
         var formattedName = lowerCaseGameName.replace(/ /g, '-') + '.html';
 
-        // Check if the entered game name is supported
         if (supportedGames.includes(lowerCaseGameName)) {
             var iframe = document.createElement('iframe');
             iframe.src = "https://uvgame.github.io/" + formattedName;
