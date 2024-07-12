@@ -4,7 +4,7 @@ javascript:(function() {
     square.style.top = '50px';
     square.style.left = '50px';
     square.style.width = '235px'; // Adjusted width to accommodate the image and text
-    square.style.height = '110px'; // Adjusted height to 110 pixels
+    square.style.height = '130px'; // Adjusted height to 130 pixels
     square.style.background = 'black';
     square.style.borderRadius = '5px';
     square.style.zIndex = '9999';
