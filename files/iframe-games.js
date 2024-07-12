@@ -17,7 +17,7 @@ javascript:(function() {
         
     ];
     
-    var gameName = prompt("Type game name (Press esc to cancel).");
+    var gameName = prompt("Type game name, dont add dashes (Press esc to cancel).");
     if (gameName !== null) {
         var linkfix = gameName.replace(/ /g, '-') + '.html';
         
