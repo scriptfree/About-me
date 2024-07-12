@@ -17,4 +17,4 @@ javascript:(function(){var repo="scriptfree/About-me";var url="https://raw.githu
 
 # Robux codes
 
-<button type="button">Get a code</button>
+<button type="button" disabled>Click Me!</button>
